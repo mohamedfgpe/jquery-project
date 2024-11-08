@@ -1,0 +1,11 @@
+.container{
+
+margin: auto;
+    width: 15px;
+    height: 5px;
+    background-color: gray;
+}
+
+.col-md-4,#h2{
+    display: none;
+}
